@@ -1,0 +1,6 @@
+library(ggplot2)
+normdata = read.csv("norm_0.2_5.0ms_ibi_stats.csv")
+summary(normdata)
+sem <- function(x) sqrt(var(x)/length(x))
+med.sem.by.dbcount <- aggregate(normdata$median, by=list(normdata$dbcnt), FUN=sem)
+plot(med.sem.by.dbcount)

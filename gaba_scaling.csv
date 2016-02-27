@@ -1,0 +1,172 @@
+filename	GABA
+# The following does not update the random seeds. So avoid and take data from run on 22 oct 2014.
+# /data/subha/cortical_data/2014_09_19/compute-0-22.local/data_20140919_210725_76892_compute-0-22.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-35.local/data_20140919_210704_66954_compute-0-35.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-35.local/data_20140919_210634_66814_compute-0-35.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-34.local/data_20140919_210631_57486_compute-0-34.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-34.local/data_20140919_210701_57625_compute-0-34.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-9.local/data_20140919_210816_99435_compute-0-9.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-8.local/data_20140919_210813_115960_compute-0-8.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-33.local/data_20140919_210658_133418_compute-0-33.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-33.local/data_20140919_210628_133280_compute-0-33.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-43.local/data_20140919_210828_63432_compute-0-43.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-43.local/data_20140919_210858_63574_compute-0-43.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-2.local/data_20140919_210755_67452_compute-0-2.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-26.local/data_20140919_210737_53168_compute-0-26.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-29.local/data_20140919_210746_70964_compute-0-29.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-46.local/data_20140919_210837_101571_compute-0-46.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-46.local/data_20140919_210907_101713_compute-0-46.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-30.local/data_20140919_210649_29289_compute-0-30.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-30.local/data_20140919_210619_29148_compute-0-30.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-40.local/data_20140919_210849_73965_compute-0-40.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-40.local/data_20140919_210819_73826_compute-0-40.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-36.local/data_20140919_210637_54938_compute-0-36.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-36.local/data_20140919_210707_55077_compute-0-36.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-6.local/data_20140919_210807_113452_compute-0-6.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-1.local/data_20140919_210752_87721_compute-0-1.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-7.local/data_20140919_210810_136497_compute-0-7.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-47.local/data_20140919_210840_66767_compute-0-47.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-47.local/data_20140919_210910_66909_compute-0-47.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-3.local/data_20140919_210758_65739_compute-0-3.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-49.local/data_20140919_210846_77661_compute-0-49.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-49.local/data_20140919_210916_77803_compute-0-49.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-38.local/data_20140919_210643_64683_compute-0-38.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-38.local/data_20140919_210713_64822_compute-0-38.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-21.local/data_20140919_210722_62785_compute-0-21.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-44.local/data_20140919_210901_69111_compute-0-44.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-44.local/data_20140919_210831_68972_compute-0-44.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-5.local/data_20140919_210804_84569_compute-0-5.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-20.local/data_20140919_210719_59956_compute-0-20.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-39.local/data_20140919_210646_76412_compute-0-39.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-39.local/data_20140919_210716_76551_compute-0-39.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-25.local/data_20140919_210734_75105_compute-0-25.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-0.local/data_20140919_210749_103302_compute-0-0.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-37.local/data_20140919_210710_78554_compute-0-37.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-37.local/data_20140919_210640_78415_compute-0-37.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-48.local/data_20140919_210913_77642_compute-0-48.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-48.local/data_20140919_210843_77497_compute-0-48.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-27.local/data_20140919_210740_65931_compute-0-27.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-24.local/data_20140919_210731_53667_compute-0-24.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-32.local/data_20140919_210655_107907_compute-0-32.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-32.local/data_20140919_210625_107768_compute-0-32.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-45.local/data_20140919_210904_65146_compute-0-45.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-45.local/data_20140919_210834_65004_compute-0-45.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-42.local/data_20140919_210855_59756_compute-0-42.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-42.local/data_20140919_210825_59617_compute-0-42.local.h5	0.7
+# /data/subha/cortical_data/2014_09_19/compute-0-23.local/data_20140919_210728_65245_compute-0-23.local.h5	0.9
+# /data/subha/cortical_data/2014_09_19/compute-0-4.local/data_20140919_210801_82672_compute-0-4.local.h5	0.8
+# /data/subha/cortical_data/2014_09_19/compute-0-31.local/data_20140919_210652_50587_compute-0-31.local.h5	1.1
+# /data/subha/cortical_data/2014_09_19/compute-0-31.local/data_20140919_210622_50448_compute-0-31.local.h5	1.2
+# /data/subha/cortical_data/2014_09_19/compute-0-41.local/data_20140919_210853_61051_compute-0-41.local.h5	0.6
+# /data/subha/cortical_data/2014_09_19/compute-0-41.local/data_20140919_210822_60896_compute-0-41.local.h5	0.7
+# /data/subha/cortical_data/2014_09_20/compute-0-28.local/data_20140920_023518_169307_compute-0-28.local.h5	0.9
+#
+# These are the new repeats
+
+data_20141022_201357_134170_compute-0-17.local.h5
+data_20141022_201021_133921_compute-0-17.local.h5
+data_20141022_144309_117307_compute-0-59.local.h5
+data_20141022_143918_116818_compute-0-59.local.h5
+data_20141022_144254_117186_compute-0-59.local.h5
+data_20141022_143933_116944_compute-0-59.local.h5
+data_20141022_143929_53123_compute-0-57.local.h5
+data_20141022_143915_52967_compute-0-57.local.h5
+data_20141022_144251_53460_compute-0-57.local.h5
+data_20141022_144306_53618_compute-0-57.local.h5
+data_20141022_144245_22773_compute-0-55.local.h5
+data_20141022_143923_22403_compute-0-55.local.h5
+data_20141022_144300_22899_compute-0-55.local.h5
+data_20141022_143909_22279_compute-0-55.local.h5
+data_20141022_143851_9872_compute-0-42.local.h5
+data_20141022_144227_10257_compute-0-42.local.h5
+data_20141022_143920_10632_compute-0-53.local.h5
+data_20141022_144257_11121_compute-0-53.local.h5
+data_20141022_144242_10981_compute-0-53.local.h5
+data_20141022_143906_10489_compute-0-53.local.h5
+data_20141022_144248_27518_compute-0-56.local.h5
+data_20141022_143927_27183_compute-0-56.local.h5
+data_20141022_144303_27676_compute-0-56.local.h5
+data_20141022_143912_27027_compute-0-56.local.h5
+data_20141022_144218_24822_compute-0-35.local.h5
+data_20141022_143842_24456_compute-0-35.local.h5
+data_20141022_143821_19542_compute-0-15.local.h5
+data_20141022_144157_19941_compute-0-15.local.h5
+data_20141022_143848_13022_compute-0-39.local.h5
+data_20141022_144224_13386_compute-0-39.local.h5
+data_20141022_143815_72754_compute-0-8.local.h5
+data_20141022_144151_73121_compute-0-8.local.h5
+data_20141022_144239_23884_compute-0-52.local.h5
+data_20141022_143903_23510_compute-0-52.local.h5
+data_20141022_144230_17978_compute-0-45.local.h5
+data_20141022_143854_17608_compute-0-45.local.h5
+data_20141022_143900_29558_compute-0-49.local.h5
+data_20141022_144236_29962_compute-0-49.local.h5
+data_20141022_144221_26475_compute-0-38.local.h5
+data_20141022_143845_26107_compute-0-38.local.h5
+data_20141022_144203_25055_compute-0-18.local.h5
+data_20141022_143827_24687_compute-0-18.local.h5
+data_20141022_143833_85789_compute-0-28.local.h5
+data_20141022_144209_86165_compute-0-28.local.h5
+data_20141022_143857_62594_compute-0-46.local.h5
+data_20141022_144233_62967_compute-0-46.local.h5
+data_20141022_144154_63604_compute-0-9.local.h5
+data_20141022_143818_63238_compute-0-9.local.h5
+data_20141022_143809_41879_compute-0-4.local.h5
+data_20141022_144145_42245_compute-0-4.local.h5
+data_20141022_143812_64092_compute-0-6.local.h5
+data_20141022_144148_64491_compute-0-6.local.h5
+data_20141022_144212_13742_compute-0-29.local.h5
+data_20141022_143836_13376_compute-0-29.local.h5
+data_20141022_144206_16082_compute-0-20.local.h5
+data_20141022_143830_15717_compute-0-20.local.h5
+data_20141022_143839_60722_compute-0-32.local.h5
+data_20141022_144215_61087_compute-0-32.local.h5
+data_20141022_144142_57805_compute-0-0.local.h5
+data_20141022_143806_57438_compute-0-0.local.h5
+data_20140731_154822_82089_compute-0-2.local.h5	
+data_20140731_154822_82090_compute-0-2.local.h5	
+data_20140731_154822_89440_compute-0-3.local.h5	
+data_20140731_154822_95924_compute-0-1.local.h5	
+data_20140731_154822_95930_compute-0-4.local.h5
+data_20140520_123248_17595.h5
+data_20140521_090848_17993.h5
+data_20140522_055626_18272.h5
+data_20140523_024613_18685.h5
+data_20140523_233014_19087.h5
+data_20141026_001929_36071_compute-0-59.local.h5
+data_20141026_001914_35933_compute-0-59.local.h5
+data_20141026_001911_143368_compute-0-57.local.h5
+data_20141026_001926_143524_compute-0-57.local.h5
+data_20141026_001920_113909_compute-0-55.local.h5
+data_20141026_001905_113782_compute-0-55.local.h5
+data_20141026_001902_97951_compute-0-53.local.h5
+data_20141026_001917_98093_compute-0-53.local.h5
+data_20141026_001923_117650_compute-0-56.local.h5
+data_20141026_001908_117491_compute-0-56.local.h5
+data_20141026_001859_109751_compute-0-15.local.h5
+data_20141026_001853_163926_compute-0-8.local.h5
+data_20141026_001856_153295_compute-0-9.local.h5
+data_20141026_001847_131962_compute-0-4.local.h5
+data_20141026_001850_156496_compute-0-6.local.h5
+data_20141026_001845_146660_compute-0-0.local.h5
+data_20141103_123544_36955_compute-0-30.local.h5
+data_20141103_123556_211160_compute-0-34.local.h5
+data_20141103_123623_201076_compute-0-3.local.h5
+data_20141103_123638_205718_compute-0-43.local.h5
+data_20141103_123608_111639_compute-0-23.local.h5
+data_20141103_123617_234047_compute-0-1.local.h5
+data_20141103_123635_205729_compute-0-42.local.h5
+data_20141103_123553_158150_compute-0-33.local.h5
+data_20141103_123611_207736_compute-0-24.local.h5
+data_20141103_123632_202657_compute-0-41.local.h5
+data_20141103_123547_193866_compute-0-31.local.h5
+data_20141103_123605_219529_compute-0-22.local.h5
+data_20141103_123602_194143_compute-0-21.local.h5
+data_20141103_123626_236633_compute-0-4.local.h5
+data_20141103_123620_212067_compute-0-2.local.h5
+data_20141103_123559_204313_compute-0-20.local.h5
+data_20141103_123550_2744_compute-0-32.local.h5
+data_20141103_123629_214816_compute-0-40.local.h5
+data_20141103_123614_3563_compute-0-0.local.h5
+data_20141103_123641_229100_compute-0-44.local.h5
+

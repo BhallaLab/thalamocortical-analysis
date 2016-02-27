@@ -1,0 +1,13 @@
+filename	gaba_sd	ampa_sd	nmda_sd	em_sd	deepbasket_count	stimulated	tcr_spiked	simtime
+data_20140605_092624_16345.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140606_100530_16881.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140607_121617_17422.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140608_094303_17896.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140609_062621_18211.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_107587_compute-0-0.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_75608_compute-0-2.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_82900_compute-0-3.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_89366_compute-0-1.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_89367_compute-0-1.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_89372_compute-0-4.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
+data_20140805_173115_89373_compute-0-4.local.h5	1.0	1.0	1.0	0.05	60	True	True	20.0
